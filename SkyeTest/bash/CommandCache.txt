@@ -1,0 +1,4 @@
+conf t
+router bgp 8681
+fsdfsdaf
+sadfsdafs
